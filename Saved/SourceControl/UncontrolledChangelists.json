@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Lewis J/Rendering Techniques/RenderingTechniques/Content/M_CelShader.uasset",
+				"D:/Lewis J/Rendering Techniques/RenderingTechniques/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
 				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
 				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/M_CelShader.uasset",
