@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/M_CelShader.uasset",
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/M_CelShader_Inst.uasset",
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/Outline_M.uasset",
+				"L:/Uni Work/Year 3/Rendering Techniques/MyProject/Content/Outline_M_Inst.uasset"
+			]
+		}
+	]
+}
